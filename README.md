@@ -51,9 +51,9 @@ Ideal project for Python beginners
 
 ## 🛠️ Technologies Used
 
-Python 3
+***Python 3***
 
-Built-in random module
+***Built-in random module***
 
 
 ### Then enter:
