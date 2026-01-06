@@ -24,3 +24,15 @@ The computer randomly selects one option.
 Both choices are compared using predefined rules.
 
 The result (Win / Lose / Draw) is displayed.
+
+## Key Concepts Used
+
+Python dictionaries for mapping user input
+
+Random choice generation using the random module
+
+Conditional statements (if-elif-else)
+
+User input handling
+
+Game logic implementation
