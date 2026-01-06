@@ -49,6 +49,7 @@ Fast execution and easy to play
 Ideal project for Python beginners
 
 
+
 ## 🛠️ Technologies Used
 
 ***Python 3***
@@ -56,7 +57,8 @@ Ideal project for Python beginners
 ***Built-in random module***
 
 
-### Then enter:
+
+## Then enter:
 
 r for Rock
 
