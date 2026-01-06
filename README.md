@@ -7,3 +7,13 @@ A beginner-friendly Python project implementing the Rock Paper Scissors game usi
 ## 📌 About the Project
 
 This project is a simple Rock–Paper–Scissors game developed using Python. The game allows a user to play against the computer, where the computer randomly selects an option and the winner is decided based on standard game rules. This project demonstrates the use of conditional logic, dictionaries, user input handling, and randomization in Python.
+
+
+⚙️ How the Game Works
+The user enters their choice:
+r → Rock
+p → Paper
+s → Scissors
+The computer randomly selects one option.
+Both choices are compared using predefined rules.
+The result (Win / Lose / Draw) is displayed.
