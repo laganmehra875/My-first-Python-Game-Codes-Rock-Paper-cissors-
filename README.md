@@ -1,8 +1,8 @@
-# My-first-Python-Game-Codes(Rock-Paper-Scissors)
+# My-first-Python-Game-Codes(Rock-Paper-Scissor)
 A beginner-friendly Python project implementing the Rock Paper Scissors game using conditional logic and randomization.
 
 
-# 🎮 Rock Paper Scissors Game (Python)
+# 🎮 Rock Paper Scissor Game (Python)
 
 ## 📌 About the Project
 
